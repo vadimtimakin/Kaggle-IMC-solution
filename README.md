@@ -1,4 +1,4 @@
-# Kaggle-IMC-solution
+# Kaggle-IMC-28th-solution
 The solution and code for Image Matching Challenge.
 
 ## Brief Summary
