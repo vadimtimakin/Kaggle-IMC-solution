@@ -1,4 +1,4 @@
-# Kaggle-IMC--solution
+# Kaggle-IMC-solution
 The 28th place solution and code for [Image Matching Challenge](https://www.kaggle.com/competitions/image-matching-challenge-2022/overview).
 
 ## Brief Summary
