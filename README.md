@@ -1,5 +1,5 @@
-# Kaggle-IMC-28th-solution
-The solution and code for Image Matching Challenge.
+# Kaggle-IMC--solution
+The 28th place solution and code for [Image Matching Challenge](https://www.kaggle.com/competitions/image-matching-challenge-2022/overview).
 
 ## Brief Summary
 Ensemble of LoFTR, SuperGlue, DKM and ASLFeat with the resize calibration and appropriate number of keypoints for each model.
@@ -13,9 +13,9 @@ Set up: [baseline LoFTR](https://www.kaggle.com/code/mcwema/imc-2022-kornia-loft
 | DEGENSAC  | 0.2 | 0.684 |
 | DEGENSAC  | 1.0 | 0.705 |
 | GC-RANSAC| 0.2 | 0.671 |
-| MAGSAC & DEGENSAC &  GC-RANSAC| 0.25, 1.0, 1.0 | 0.725 |
-| MAGSAC & DEGENSAC &  GC-RANSAC| 0.25, 3.0, 3.0 | 0.727 (but too slow) |
-| MAGSAC & DEGENSAC &  GC-RANSAC| 0.25, 0.5, 0.5 | 0.720 |
+| MAGSAC & DEGENSAC & GC-RANSAC| 0.25, 1.0, 1.0 | 0.725 |
+| MAGSAC & DEGENSAC & GC-RANSAC| 0.25, 3.0, 3.0 | 0.727 (but too slow) |
+| MAGSAC & DEGENSAC & GC-RANSAC| 0.25, 0.5, 0.5 | 0.720 |
 
 ## Choosing an image size
 Image size is crucial for LoFTR. Here is the proof.
