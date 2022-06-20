@@ -106,4 +106,4 @@ elif FM.shape != (3, 3):
 - Tuning confidence thresholds
 
 ## Code and final keypoints
-The notebook with an entire solution and keypoints examples can be found [here]([https://www.kaggle.com/code/vadimtimakin/imc-solution](https://github.com/t0efL/Kaggle-IMC-solution/blob/main/imc-solution.ipynb))!
+The notebook with an entire solution and keypoints examples can be found [here](https://github.com/t0efL/Kaggle-IMC-solution/blob/main/imc-solution.ipynb).
